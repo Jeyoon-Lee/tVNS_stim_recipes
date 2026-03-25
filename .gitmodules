@@ -1,0 +1,3 @@
+[submodule "eeg_utils"]
+	path = eeg_utils
+	url = https://github.com/Jeyoon-Lee/eeg_utils.git

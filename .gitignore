@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# virtual env
+venv/
+.venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Windows
+Thumbs.db
+
+# Data
+Data/*.csv
+Data/*.fif
+Data/*.pkl
+Data/*.xlsx
+Data/figures/
+
+# figures
+figures/*.png
